@@ -4,7 +4,7 @@
 
  - Hardware & Software
 
- - Undergraduate CUIT
+ - Bachelor CUIT
 
  - Master IISEC
 
