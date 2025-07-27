@@ -13,7 +13,3 @@
  [![HAIZAKURA's github stats](https://github-readme-stats.vercel.app/api?username=HAIZAKURA&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HAIZAKURA&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
- ## Contact
-
- [![](https://img.shields.io/badge/-@haizakura_0v0-000000?style=flat-square&logo=x&logoColor=fff)](https://twitter.com/haizakura_0v0) [![](https://img.shields.io/badge/-https://nya.run-0e83cd?style=flat-square&logo=Blogger&logoColor=fff)](https://nya.run) [![](https://img.shields.io/badge/-i@nya.run-911318?style=flat-square&logo=Mail.RU&logoColor=white&labelColor=c14438)](mailto:i#nya.run)
